@@ -15,6 +15,8 @@
             <br />
         <br>
             <h2 align="center">DATA ITEM</h2><br/>
+        <br>
+        <a href="print.php" target="_blank">PRINT</a>
         <input type="hidden" name="id" id="id" />
             <div style="clear:both"></div>
             <br />
